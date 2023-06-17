@@ -1,3 +1,5 @@
 # ninja log v5
 2	800	7086901187105996	CMakeFiles/untitled.dir/main.cpp.obj	e9c7c21320f5f56d
 807	1096	7086901190012321	untitled.exe	b74760f295153e35
+5	2902	7086952987049381	CMakeFiles/untitled.dir/Generic_rubics_cube_solver.cpp.obj	1edb104b62b7102f
+2910	3260	7086952990512152	untitled.exe	9eba8f5ac84024d3
