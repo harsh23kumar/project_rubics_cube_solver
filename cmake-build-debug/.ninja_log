@@ -1,5 +1,6 @@
 # ninja log v5
-4	2105	7088608112206223	CMakeFiles/untitled.dir/main.cpp.obj	e9c7c21320f5f56d
-2106	2474	7088608115847167	untitled.exe	cc4d17babeb73b8c
+6	2694	7097283191847036	CMakeFiles/untitled.dir/main.cpp.obj	e9c7c21320f5f56d
+2696	2892	7097283193712548	untitled.exe	8988616e43f9abec
 19	3983	7087974329610696	CMakeFiles/untitled.dir/Generic_rubics_cube_solver.cpp.obj	1edb104b62b7102f
 9	3754	7087974327337021	CMakeFiles/untitled.dir/RubiksCube3d.cpp.obj	5f591230cfc2e9b3
+23	3219	7097280492458579	CMakeFiles/untitled.dir/RubicksCube1d.cpp.obj	45550ba25cedea1
