@@ -1,5 +1,5 @@
 //
-// Created by Harsh on 29-06-2023.
+// Created by Harsh
 //
 #include "Generic_rubics_cube_solver.h"
 
