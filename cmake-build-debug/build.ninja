@@ -67,6 +67,12 @@ build CMakeFiles/untitled.dir/RubiksCube3d.cpp.obj: CXX_COMPILER__untitled_Debug
   OBJECT_DIR = CMakeFiles\untitled.dir
   OBJECT_FILE_DIR = CMakeFiles\untitled.dir
 
+build CMakeFiles/untitled.dir/RubicksCube1d.cpp.obj: CXX_COMPILER__untitled_Debug C$:/Users/DELL/CLionProjects/untitled/RubicksCube1d.cpp || cmake_object_order_depends_target_untitled
+  DEP_FILE = CMakeFiles\untitled.dir\RubicksCube1d.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target untitled
@@ -75,7 +81,7 @@ build CMakeFiles/untitled.dir/RubiksCube3d.cpp.obj: CXX_COMPILER__untitled_Debug
 #############################################
 # Link the executable untitled.exe
 
-build untitled.exe: CXX_EXECUTABLE_LINKER__untitled_Debug CMakeFiles/untitled.dir/main.cpp.obj CMakeFiles/untitled.dir/Generic_rubics_cube_solver.cpp.obj CMakeFiles/untitled.dir/RubiksCube3d.cpp.obj
+build untitled.exe: CXX_EXECUTABLE_LINKER__untitled_Debug CMakeFiles/untitled.dir/main.cpp.obj CMakeFiles/untitled.dir/Generic_rubics_cube_solver.cpp.obj CMakeFiles/untitled.dir/RubiksCube3d.cpp.obj CMakeFiles/untitled.dir/RubicksCube1d.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\untitled.dir
