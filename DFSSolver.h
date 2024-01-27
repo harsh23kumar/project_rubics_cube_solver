@@ -1,5 +1,5 @@
 //
-// Created by HARSH.
+// 
 //
 #include<bits/stdc++.h>
 #include "Generic_rubics_cube_solver.h"
